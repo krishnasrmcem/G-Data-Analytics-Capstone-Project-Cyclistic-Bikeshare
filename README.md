@@ -1,4 +1,4 @@
-Capstone Project : Cyclistic Bikeshare
+Google Data Analytics Capstone Project using R: Cyclistic Bikeshare 
 ================
 Krishna Mohan
 2022-05-14
